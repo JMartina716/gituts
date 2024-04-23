@@ -12,3 +12,7 @@ const server = createServer((req, res) => {
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
+
+console.log("Hello World");
+
+console.log("Keep up the good work, and keep on learning. It's goinggitg pay off the end!!")
