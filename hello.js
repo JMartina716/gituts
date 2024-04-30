@@ -20,3 +20,5 @@ console.log("Keep up the good work, and keep on learning. It's goinggitg pay off
 console.log("Buddy Holiday");
 
 console.log('Keep going if this has been commited');
+
+console.log("Is this another console log that i've added");
